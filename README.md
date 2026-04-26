@@ -1,4 +1,4 @@
-Fake Review Detection using Machine Learning & Blockchain
+# Fake Review Detection using Machine Learning & Blockchain
 
 📌 Project Description
 
