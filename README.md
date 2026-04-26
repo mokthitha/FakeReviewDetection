@@ -84,7 +84,7 @@ Previous Hash: <previous_hash>
 📁 Project Structure
 
 fake-review-detection/
-│── app.py
+│── model.py
 │── fake reviews dataset.csv
 │── README.md
 
